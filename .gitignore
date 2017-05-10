@@ -1,0 +1,4 @@
+*~
+*.pyc
+knife_ssh_vars.yaml
+knife_telnet_vars.yaml
